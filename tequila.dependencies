@@ -1,0 +1,15 @@
+[
+  {
+    "repository": "platform_hardware_oplus",
+    "target_path": "hardware/oplus"
+  },
+  {
+    "repository": "platform_kernel_oneplus_sm8250",
+    "target_path": "kernel/oneplus/sm8250"
+  },
+  {
+    "repository": "platform_vendor_oneplus_sm8250-common",
+    "target_path": "vendor/oneplus/sm8250-common",
+    "remote": "tequila-gitlab"
+  }
+]
